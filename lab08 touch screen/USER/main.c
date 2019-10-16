@@ -158,7 +158,7 @@ void rtp_test(void)
                     key4=0;
 
                     LCD_Fill( 0,lcddev.height-30,100,lcddev.height-20,YELLOW );
-                    LCD_ShowString(60,150,200,16,16,"I am Qiu Wei");
+                    LCD_ShowString(60,150,200,16,16,"I am Ma Huateng");
 
                     delay_ms(1000);
                     continue;
